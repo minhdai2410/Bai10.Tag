@@ -1,1 +1,2 @@
 fix on nhanhTesting
+Thay doi tren nhanh nhanhTesting
