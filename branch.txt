@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-fix on master
-=======
-fix on nhanhTesting
->>>>>>> nhanhTesting
-Sua doi tren nhanh master
